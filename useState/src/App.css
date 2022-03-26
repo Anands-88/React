@@ -1,0 +1,48 @@
+.App{
+  border:2px ridge rgb(255, 115, 0);
+  width:30%;
+  text-align: center;
+  margin: 2% auto;
+}
+
+.App  input
+{
+  width:90%;
+  height: 30px;
+}
+.App button{
+  width:80px;
+  height:30px;
+  font-size: 14px;
+  margin:4% 0;
+  background:rgb(95, 93, 93);
+  color:white;
+  border:0;
+  border-radius: 15px;
+}
+
+.inputs
+{
+  border:1px solid rgb(73, 73, 73);
+  height:50px;
+  display: flex;
+  justify-content: center;
+}
+
+.item
+{
+  font-size: 18px;;
+  width:70%;
+  margin-right:0;
+  padding-top:12px;
+}
+.item + .remove
+{
+  transform:translateX(10px);
+  margin-top:2%;
+}
+
+button:hover{
+  background-color: rgb(238, 120, 9);
+}
+

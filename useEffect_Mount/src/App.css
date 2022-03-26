@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  margin: auto;
+  width:30%;
+}
+
+input{
+  width:95%;
+  height:30px;
+  margin:2% 0;
+  font-size: 25px;
+}
+
+input + button{
+  width:20%;
+  height:30px;
+  margin:2% 0;
+}
+
+.table, table{
+  border:1px solid orangered;
+  width:100%;
+  border-collapse:separate;
+}
+
+thead{
+  color:red;
+  transform: translateX(100px);
+  height:25px;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+tbody tr{
+  height:30px;
+  
+}
+
+button{
+  background-color: rgb(95, 56, 158);
+  color:white;
+  font-weight: 800;
+}
+
+button:hover  { 
+  color:rgb(255, 0, 119);
+  background-color: wheat;
+}

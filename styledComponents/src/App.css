@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width:30%;
+  height:100px;
+  margin:5% auto;
+  display:flex;
+  flex-wrap: wrap;
+  gap:10px;
+  border:1px solid rgb(241, 241, 241);
+  justify-content: left;
+}

@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.todo{
+  margin: auto;
+  border:1px solid red;
+  width:500px;
+}
+
+.todo > input{
+  width:70%;
+ margin:2% 3% 5% -2%;
+ height:28px;
+ font-size: 20px;
+}
+
+.todo > button
+{
+  height:35px;
+  border:none;
+  width:100px;
+  border-radius: 10px;
+  color:white;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: rgb(247, 92, 36)
+}
+
+.todo > button:hover{
+  background-color: rgb(139, 7, 29);
+}
+
+.table
+{
+  border:1px solid red;
+  margin: auto;
+  width:450px;
+}
+
+.table > table{
+  width:450px;
+  border:none;
+  
+}
+
+thead{
+  font-size: 20px;
+  font-weight: 800;
+}
+
+tr{
+  height:30px;
+}
+
+td:first-child{
+  background-color: rgb(235, 196, 165);
+  width:80%;
+}

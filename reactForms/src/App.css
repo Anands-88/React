@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+.form{
+  width:25%;
+  height:450px;
+  margin: 3% 10% 0% 25%;
+  border:1px solid orange;
+}
+
+.form  input{
+  width:95%;
+  height:30px;
+  margin:3% 0;
+}
+
+select{
+  width:97%;
+  height:30px;
+}
+
+.tick
+{
+  display: flex;
+  margin-top:3%;
+  gap: 40px;
+}
+
+.tick > label
+{
+  margin:1% 0% 0 2%;
+}
+
+.tick > input
+{
+  width:20px;
+  height:20px;
+}
+
+#submit
+{
+  width:50%;
+  height:35px;
+  background-color: #a6aaa9;
+  border-radius: 20px;
+  margin-top: 5%;
+}
+#submit:hover{
+  background-color: rgb(240, 116, 70);
+}
+
+.table > table{
+  border:1px solid red;
+  width:400px;
+  margin-top: 3%;
+  border-spacing: 5px;
+  
+}
+
+th:first-child,td:first-child{
+  width:35%;
+} 
+
+th{
+  height:35px;
+  background-color: rgb(228, 163, 163);
+}
+tr{
+  height:40px;
+}

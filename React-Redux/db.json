@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "title": "HTML",
+      "status": "False",
+      "id": 1
+    },
+    {
+      "title": "CSS",
+      "status": "False",
+      "id": 2
+    },
+    {
+      "title": "JavaScript",
+      "status": "False",
+      "id": 3
+    },
+    {
+      "title": "Node JS",
+      "status": "False",
+      "id": 4
+    },
+    {
+      "title": "Express JS",
+      "status": "False",
+      "id": 5
+    },
+    {
+      "title": "MongoDB",
+      "status": "False",
+      "id": 6
+    },
+    {
+      "title": "React",
+      "status": "False",
+      "id": 7
+    },
+    {
+      "title": "Redux",
+      "status": "False",
+      "id": 8
+    },
+    {
+      "title": "React-Redux",
+      "status": "False",
+      "id": 9
+    }
+  ]
+}
