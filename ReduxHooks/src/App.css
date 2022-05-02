@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #83807d;
+  
+}
+
+.Info
+{
+  width: 280px;
+  display:grid;
+  gap:2px;
+  margin:10% 0 0 3%;
+  font-size: 18px;
+  color:rgb(49, 9, 9);
+  border:2px solid rgb(184, 180, 180);
+}
+
+.count{
+  margin-bottom: 15%;
+}
+
+.count tr >td{
+  border:1px solid rgb(153, 145, 145);
+  width:60%;
+  height:30px;
+  font-weight: 800;
+}
+
+#logout
+{
+  background-color: rgb(201, 197, 197);
+  height:40px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+.navbar
+{
+  height:50px;
+  background-color: rgb(243, 146, 107);;
+  font-size: 18px;
+  border-bottom: 2px ridge rgb(235, 109, 36);
+}
+
+#headings
+{
+  width:320px;
+  margin-left: 2%;
+  display:flex;
+  height:30px;
+  font-weight: 800;
+  padding-top: 15px;
+  justify-content: space-between;
+}
+
+.Titles
+{
+  border:1px solid gainsboro;
+}
+
+.statusHead
+{
+  height:60px;
+  width:96%;
+  margin:auto;
+  margin-top: 7%;
+  box-shadow: rgba(240, 217, 116, 0.884) 0px 0px 0px 2px, rgba(243, 243, 243, 0.938) 0px 4px 6px -1px, rgba(255, 255, 255, 0.966) 0px 1px 0px inset;
+  border:1px solid transparent;
+  background-color: rgb(247, 199, 127);
+}
+
+.subtask_body > tr > td
+{
+  border:1px solid rgb(122, 121, 121);
+  height:30px;
+}
+
+.summaryStatus
+{
+  display: flex;
+  margin:2% 0;
+  margin-left:36%;
+  height:60px;
+  text-align: center;
+  font-size: 25px;
+
+  box-shadow: rgba(236, 136, 43, 0.705) 0px 0px 0px 2px, rgba(49, 25, 25, 0.938) 0px 4px 6px -1px, rgba(247, 193, 15, 0.993) 0px 1px 0px inset;
+}
+
+.summaryStatus > div:first-child{
+  border:1px solid rgb(48, 16, 29);
+  width:60%;
+  padding: 15px;
+  box-sizing:border-box;
+}
+
+.summaryStatus > div:nth-child(2){
+  border:1px solid rgb(56, 19, 45);
+  width:40%;
+  padding: 15px;
+  box-sizing:border-box;
+
+}

@@ -1,0 +1,522 @@
+{
+  "get-restaurants": [
+    {
+      "id": 1,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 580,
+      "ratings": 4.4,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 2,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 570,
+      "ratings": 3.4,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 3,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 610,
+      "ratings": 2.4,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 4,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 573,
+      "ratings": 4.1,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 5,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 590,
+      "ratings": 3.7,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 6,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 600,
+      "ratings": 2.9,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Cash": true,
+        "Card": false,
+        "UPI": true
+      }
+    },
+    {
+      "id": 7,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 500,
+      "ratings": 2.4,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": false,
+        "UPI": false
+      }
+    },
+    {
+      "id": 8,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 550,
+      "ratings": 4.8,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 9,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 600,
+      "ratings": 4,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 10,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 300,
+      "cost_for_two": 550,
+      "ratings": 2.9,
+      "total_reviews": 200,
+      "total_votes": 400,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 11,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 350,
+      "cost_for_two": 650,
+      "ratings": 3.3,
+      "total_reviews": 400,
+      "total_votes": 700,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 12,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 280,
+      "cost_for_two": 500,
+      "ratings": 4,
+      "total_reviews": 260,
+      "total_votes": 400,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 13,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 320,
+      "cost_for_two": 600,
+      "ratings": 4.2,
+      "total_reviews": 210,
+      "total_votes": 400,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 14,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 340,
+      "cost_for_two": 540,
+      "ratings": 3.8,
+      "total_reviews": 220,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 15,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 150,
+      "cost_for_two": 250,
+      "ratings": 4,
+      "total_reviews": 20,
+      "total_votes": 40,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 16,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 310,
+      "cost_for_two": 550,
+      "ratings": 4.8,
+      "total_reviews": 100,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 17,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India",
+        "North India"
+      ],
+      "cost_for_one": 340,
+      "cost_for_two": 650,
+      "ratings": 3.9,
+      "total_reviews": 230,
+      "total_votes": 400,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      }
+    },
+    {
+      "id": 18,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "South India"
+      ],
+      "cost_for_one": 400,
+      "cost_for_two": 770,
+      "ratings": 3,
+      "total_reviews": 300,
+      "total_votes": 400,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "id": 19,
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice",
+      "categories": [
+        "North India"
+      ],
+      "cost_for_one": 200,
+      "cost_for_two": 300,
+      "ratings": 4.4,
+      "total_reviews": 400,
+      "total_votes": 200,
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": false
+      }
+    },
+    {
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Rice Special",
+      "categories": ["South India"],
+      "cost_for_one": 372,
+      "cost_for_two": 750,
+      "ratings": 3.7,
+      "total_reviews": 434,
+      "total_votes": 555,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      },
+      "id": 20
+    },
+    {
+      "images": "http://getinfolist.com/wp-content/uploads/2014/04/indian-food-salinda-41c0.jpg",
+      "item": "Phulav",
+      "categories": ["North India"],
+      "cost_for_one": 220,
+      "cost_for_two": 400,
+      "ratings": 4.2,
+      "total_reviews": 434,
+      "total_votes": 4424,
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": true
+      },
+      "id": 21
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["South India"],
+      "cost_for_one": 180,
+      "cost_for_two": 380,
+      "ratings": 3,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": true
+      },
+      "id": 22
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["South India"],
+      "cost_for_one": 200,
+      "cost_for_two": 450,
+      "ratings": 3.2,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      },
+      "id": 23
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["South India"],
+      "cost_for_one": 300,
+      "cost_for_two": 560,
+      "ratings": 3.2,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      },
+      "id": 24
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["South India"],
+      "cost_for_one": 400,
+      "cost_for_two":800,
+      "ratings": 3.9,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": false,
+        "Cash": true,
+        "UPI": false
+      },
+      "id": 25
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["South India"],
+      "cost_for_one": 250,
+      "cost_for_two": 500,
+      "ratings": 2.8,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": false
+      },
+      "id": 26
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["South India"],
+      "cost_for_one": 200,
+      "cost_for_two": 410,
+      "ratings": 2.5,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": true,
+        "Cash": false,
+        "UPI": true
+      },
+      "id": 27
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["North India","South India"],
+      "cost_for_one": 1,
+      "cost_for_two": 300,
+      "ratings": 3.5,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      },
+      "id": 28
+    },
+    {
+      "images": "https://baliindiancuisine.com/wp-content/uploads/2014/10/south-Indian-food.jpg",
+      "item": "Idli Dose",
+      "categories": ["North India"],
+      "cost_for_one": 310,
+      "cost_for_two": 480,
+      "ratings": 4,
+      "total_reviews": "435",
+      "total_votes": "332",
+      "payment": {
+        "Card": true,
+        "Cash": true,
+        "UPI": true
+      },
+      "id": 29
+    }
+  ]
+}

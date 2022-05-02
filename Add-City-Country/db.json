@@ -1,0 +1,146 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "id": 1
+    },
+    {
+      "name": "France",
+      "id": 2
+    },
+    {
+      "name": "India",
+      "id": 3
+    },
+    {
+      "name": "England",
+      "id": 4
+    },
+    {
+      "name": "Australia",
+      "id": 5
+    },
+    {
+      "name": "Saudi Arabia",
+      "id": 6
+    },
+    {
+      "name": "Italy",
+      "id": 7
+    },
+    {
+      "name": "Canada",
+      "id": 8
+    },
+    {
+      "name": "Peru",
+      "id": 9
+    },
+    {
+      "name": "Sri Lanka",
+      "id": 10
+    },
+    {
+      "name": "Bhutan",
+      "id": 11
+    },
+    {
+      "name": "Germany",
+      "id": 12
+    },
+    {
+      "name": "Japan",
+      "id": 13
+    },
+    {
+      "name": "Britain",
+      "id": 14
+    }
+  ],
+  "details": [
+    {
+      "country": "United States",
+      "city": "Washington DC",
+      "population": "8328900",
+      "id": 1
+    },
+    {
+      "country": "United States",
+      "city": "Newyork",
+      "population": 3000000,
+      "id": 2
+    },
+    {
+      "country": "France",
+      "city": "France",
+      "population": 300000,
+      "id": 3
+    },
+    {
+      "country": "India",
+      "city": "Chennai",
+      "population": 202000,
+      "id": 4
+    },
+    {
+      "country": "Japan",
+      "city": "tokyo",
+      "population": 8898986,
+      "id": 5
+    },
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "population": 299999,
+      "id": 6
+    },
+    {
+      "country": "Canada",
+      "city": "Toronto",
+      "population": 484992,
+      "id": 7
+    },
+    {
+      "country": "China",
+      "city": "Beijing",
+      "population": 938892,
+      "id": 8
+    },
+    {
+      "country": "South Africa",
+      "city": "Durbon",
+      "population": 242342,
+      "id": 9
+    },
+    {
+      "country": "United States",
+      "city": "Indiana",
+      "population": "738883",
+      "id": 10
+    },
+    {
+      "country": "India",
+      "city": "Kolkata",
+      "population": 747244,
+      "id": 11
+    },
+    {
+      "country": "India",
+      "city": "Pune",
+      "population": 676734,
+      "id": 12
+    },
+    {
+      "country": "India",
+      "city": "Noida",
+      "population": 666644,
+      "id": 13
+    },
+    {
+      "country": "India",
+      "city": "Jaipur",
+      "population": 344234,
+      "id": 14
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.buttonbox {
+  width:95%;
+  display:flex;
+  justify-content:space-between;
+  margin:auto;
+}
+
+#prev, #next{
+  transform: translateY(30px);
+  width:90px;
+  height:50px;
+  margin:0 1%;
+  color:white;
+  font-weight: 900;
+  font-size: 18px;
+  border-radius: 25px;
+  border:groove;
+  background-color: blue;
+}
+
+.formBox{
+  width:28%;
+  border-top:3px solid red;
+  background-color: #52e97f91;
+  border-right: 2px solid rgb(255, 0, 85);;
+  border-left: 3px solid rgb(255, 0, 119);;
+  border-bottom:2px solid rgb(247, 66, 11);
+  height:440px;
+  margin:auto;
+  border-radius:20px;
+  padding-top: 2%;
+}
+
+#Submit{
+  width:90px;
+  height:35px;
+  border:none;
+  font-weight: 800;
+  background-color: rgb(8, 194, 23);
+}
+
+.display{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  gap:20px;
+   width:88%;
+  margin:auto
+}
+
+
+@media screen and (min-width:376px) and (max-width:768px) {
+
+  .formBox{
+    width:50%;
+    height:440px;
+    margin:auto
+  }
+
+  .buttonbox {
+    width:98%;
+    display:block;
+    margin:auto;
+
+  }
+  .display{
+    gap:5x;
+     width:100%;
+    margin-top: 25%;
+  }
+  
+}
+
+@media screen and (max-width:375px) {
+
+  .formBox{
+    width:90%;
+    padding-top: 5%;
+    height:440px;
+    margin:auto
+  }
+
+  .buttonbox {
+    width:100%;
+    display:block;
+    justify-content:center;
+    margin:auto;
+
+  }
+  .display{
+    gap:5x;
+     width:95%;
+    margin-top: 15%;
+  }
+  
+}
